@@ -1,13 +1,15 @@
 ## DICTAIONARY
 
-## Tech Used
+## Tech Used :
 
-    HTML5, CSS, Javascript;
+    1.HTML5,
+    2.CSS,
+    3.Javascript
 
-## API's used
+## API used :
 
-    Dictionary Api- https://api.dictionaryapi.dev/api/v2/entries/en/
-    Random Word Api- https://random-word-api.herokuapp.com/word
+Dictionary API - https://api.dictionaryapi.dev/api/v2/entries/en/
+Randow Word API - https://random-word-api.herokuapp.com/word
 
 ## Created By
 
